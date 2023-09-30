@@ -27,7 +27,7 @@ body {
     padding: 15px;
     height: 50px;
     width: 50px;
-    transition: width 0.3s linear;
+    transition: width 0.3s ease;
 }
 
 
@@ -41,7 +41,7 @@ body {
     font-size: 24px;
     height: 50px;
     width: 50px;
-    transition: transform 0.3s linear;
+    transition: transform 0.3s ease;
 }
 
 
